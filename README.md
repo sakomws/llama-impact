@@ -27,8 +27,8 @@
 ### Step 1: Clone the Workshop Repository
 If you haven't cloned the repository already, run:
 ```bash
-git clone https://github.com/sakomw/ai-workshop.git
-cd ai-workshop/sessions/session_1
+git clone https://github.com/sakomws/llama-impact
+cd llama-impact
 ```
 
 ### Step 2: Set Up Environment
