@@ -1,4 +1,6 @@
 # Llama-impact Codegen
+
+## Prerequisites
 - Set up and configure the Py API.
 - Learn to interact with different endpoints to manage dependencies.
 - Understand the process of automating dependency updates in a GitHub repository.
