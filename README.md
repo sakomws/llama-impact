@@ -77,4 +77,4 @@ GROQ_API_KEY=x
 ### Step 3: Demo
 - Open in browser and select the repo with requirements.txt file in root folder: http://localhost:3000
 
-![demo](https://www.loom.com/share/945f48e6182c496582da85854e313a9b?sid=f5673e5d-262b-4048-bbee-22abe53d03b6)
+[demo](https://www.loom.com/share/945f48e6182c496582da85854e313a9b?sid=f5673e5d-262b-4048-bbee-22abe53d03b6)
